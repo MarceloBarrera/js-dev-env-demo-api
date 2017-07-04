@@ -15,8 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/MarceloBarrera/js-dev-env-demo-api"
   },
   "author": "Cory House",
   "license": "MIT"
 }
+//enamble cors sin we are calling API from different domain
